@@ -1,0 +1,6 @@
+Question;answerWhat is SpringBoot;
+
+Spring Boot is an open source, Java-based framework used to create stand-alone, production-grade, web applications and services. It is a part of the Spring framework, and provides an easy way to set up and run Spring-based applications with minimal configuration. Spring Boot applications can be deployed in any environment, including cloud-native environments, without any code changes. It also provides features such as embedded Tomcat, auto-configuration, and dependency management.
+Question;answerWhat is java;
+
+Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java is used for developing a wide range of applications, from desktop software to web applications, mobile applications, and even large-scale enterprise systems.
